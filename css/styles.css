@@ -188,7 +188,7 @@ label {
 
 #productive article {
   padding: 0 1.5em;
-  background-color: var(--light-grayish-blue);
+  background-color: hsl(240, 50%, 98%);
   padding-bottom: 4em;
 }
 
@@ -435,7 +435,7 @@ footer {
 
   .section-img {
     background-image: url(../images/bg-curve-desktop.svg);
-    height: 65px;
+    height: 80px;
   }
 
   #productive .prod-img {
@@ -507,7 +507,7 @@ footer {
   #access form .two {
     text-align: center;
     font-size: 0.9em;
-    width: 40%;
+    width: 50%;
   }
 }
 
